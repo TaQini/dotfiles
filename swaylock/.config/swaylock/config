@@ -7,6 +7,7 @@ datestr=%a, %e of %B
 
 screenshots
 
+grace=2
 fade-in=0.2
 
 effect-blur=20x2
